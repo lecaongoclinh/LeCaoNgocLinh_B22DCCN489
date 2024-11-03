@@ -1,0 +1,169 @@
+Attribute,Top Team,Mean Value
+Age,West Ham,28.27
+Matches Played,Fulham,27.24
+Playing Time_Starts,Fulham,19.9
+Playing Time_Min,Manchester City,1785.57
+Performance_non-Penalty Goals,Manchester City,4.05
+Performance_Penalty Goals,Arsenal,0.48
+Performance_Assists,Manchester City,3.24
+Performance_ Yellow Cards,Chelsea,4.32
+Performance_Red Cards,Burnley,0.25
+Expected_xG,Arsenal,0.2
+Expected_npxG,Everton,0.2
+Expected_xAG,Manchester City,0.16
+Progression_PrgC,Manchester City,53.48
+Progression_PrgP,Arsenal,99.62
+Progression_PrgR,Arsenal,98.86
+Per 90 minutes_Gls,Newcastle Utd,0.22
+Per 90 minutes_Ast,Tottenham,0.19
+Per 90 minutes_G+A,Manchester City,0.36
+Per 90 minutes_G-PK,Aston Villa,0.2
+Per 90 minutes_G+A-PK,Manchester City,0.34
+Per 90 minutes_xG,Arsenal,0.2
+Per 90 minutes_xAG,Manchester City,0.16
+Per 90 minutes_xG+xAG,Arsenal,0.34
+Per 90 minutes_npxG,Everton,0.2
+Per 90 minutes_npxG + xAG,Tottenham,0.33
+Goalkeeping_Performance_GA,Luton Town,85.0
+Goalkeeping_Performance_GA90,Sheffield Utd,2.8
+Goalkeeping_Performance_SoTA,Luton Town,221.0
+Goalkeeping_Performance_Saves,Manchester Utd,146.0
+Goalkeeping_Performance_Save%,Manchester Utd,74.9
+Goalkeeping_Performance_W,Tottenham,20.0
+Goalkeeping_Performance_D,Everton,9.0
+Goalkeeping_Performance_L,Luton Town,24.0
+Goalkeeping_Performance_CS,Everton,13.0
+Goalkeeping_Performance_CS%,Manchester City,45.15
+Goalkeeping_Penalty Kick_PKatt,Everton,8.0
+Goalkeeping_Penalty Kick_PKA,Everton,8.0
+Goalkeeping_Penalty Kick_PKsv,West Ham,1.0
+Goalkeeping_Penalty Kick_PKm,Sheffield Utd,1.0
+Goalkeeping_Penalty Kick_Save%,Aston Villa,50.0
+Shooting_Standard_Gls,Manchester City,4.48
+Shooting_Standard_Sh,Liverpool,35.41
+Shooting_Standard_SoT,Manchester City,12.52
+Shooting_Standard_SoT%,Fulham,37.65
+Shooting_Standard_Sh/90,Liverpool,1.73
+Shooting_Standard_SoT/90,Everton,0.63
+Shooting_Standard_G/Sh,Fulham,0.15
+Shooting_Standard_G/SoT,Newcastle Utd,0.42
+Shooting_Standard_Dist,Burnley,17.61
+Shooting_Standard_FK,Manchester City,1.19
+Shooting_Standard_PK,Arsenal,0.48
+Shooting_Standard_PKatt,Arsenal,0.48
+Shooting_Expected_xG,Liverpool,4.1
+Shooting_Expected_npxG,Liverpool,3.75
+Shooting_Expected_npxG/Sh,Fulham,0.14
+Shooting_Expected_G-xG,Manchester City,0.58
+Shooting_Expected_np:G-xG,Manchester City,0.52
+Passing_Total_Cmp,Manchester City,1169.29
+Passing_Total_Att,Manchester City,1318.48
+Passing_Total_Cmp%,Manchester City,86.85
+Passing_Total_TotDist,Manchester City,18722.62
+Passing_Total_PrgDist,Liverpool,5386.32
+Passing_Short_Cmp,Manchester City,612.38
+Passing_Short_Att,Manchester City,651.62
+Passing_Short_Cmp%,Manchester City,93.77
+Passing_Medium_Cmp,Manchester City,448.81
+Passing_Medium_Att,Manchester City,489.48
+Passing_Medium_Cmp%,Manchester City,89.7
+Passing_Long_Cmp,Manchester City,78.62
+Passing_Long_Att,Fulham,135.38
+Passing_Long_Cmp%,Manchester City,65.71
+Passing_Expected_Ast,Manchester City,3.24
+Passing_Expected_xAG,Liverpool,2.93
+Passing_Expected_xA,Manchester City,2.95
+Passing_Expected_A-xAG,Manchester City,0.36
+Passing_Expected_KP,Liverpool,27.18
+"Passing_Expected_""1/3""",Manchester City,89.95
+Passing_Expected_PPA,Arsenal,26.0
+Passing_Expected_CrsPA,Fulham,4.48
+Passing_Expected_PrgP,Arsenal,99.62
+Pass Types_Pass Types_Live,Manchester City,1241.33
+Pass Types_Pass Types_Dead,Fulham,83.24
+Pass Types_Pass Types_FK,Aston Villa,27.3
+Pass Types_Pass Types_TB,Arsenal,4.95
+Pass Types_Pass Types_Sw,West Ham,7.18
+Pass Types_Pass Types_Crs,Liverpool,37.14
+Pass Types_Pass Types_TI,Liverpool,34.32
+Pass Types_Pass Types_CK,Manchester City,13.57
+Pass Types_Corner Kicks_In,Arsenal,10.33
+Pass Types_Corner Kicks_Out,Liverpool,7.77
+Pass Types_Corner Kicks_Str,Wolves,0.6
+Pass Types_Outcomes_Cmp,Manchester City,1169.29
+Pass Types_Outcomes_Off,Liverpool,4.55
+Pass Types_Outcomes_Blocks,Tottenham,20.0
+Goal and Shot Creation_SCA_SCA,Liverpool,63.05
+Goal and Shot Creation_SCA_SCA90,Liverpool,3.21
+Goal and Shot Creation_SCA Types_PassLive,Manchester City,5.9
+Goal and Shot Creation_SCA Types_PassDead,Arsenal,0.76
+Goal and Shot Creation_SCA Types_TO,Newcastle Utd,0.75
+Goal and Shot Creation_SCA Types_Sh,Luton Town,0.64
+Goal and Shot Creation_SCA Types_Fld,Arsenal,0.62
+Goal and Shot Creation_SCA Types_Def,Manchester Utd,0.19
+Goal and Shot Creation_GCA_GCA,Manchester City,7.95
+Goal and Shot Creation_GCA_GCA90,Manchester City,0.42
+Goal and Shot Creation_GCA Types_PassLive,Manchester City,5.9
+Goal and Shot Creation_GCA Types_PassDead,Arsenal,0.76
+Goal and Shot Creation_GCA Types_TO,Newcastle Utd,0.75
+Goal and Shot Creation_GCA Types_Sh,Luton Town,0.64
+Goal and Shot Creation_GCA Types_Fld,Arsenal,0.62
+Goal and Shot Creation_GCA Types_Def,Manchester Utd,0.19
+Defensive Actions_Tackles_Tkl,Crystal Palace,32.83
+Defensive Actions_Tackles_TklW,Crystal Palace,19.33
+Defensive Actions_Tackles_Def 3rd,Wolves,16.6
+Defensive Actions_Tackles_Mid 3rd,Liverpool,13.05
+Defensive Actions_Tackles_Att 3rd,Manchester City,5.38
+Defensive Actions_Challenges_Tkl,Fulham,16.43
+Defensive Actions_Challenges_Att,Liverpool,34.45
+Defensive Actions_Challenges_Tkl%,Arsenal,56.22
+Defensive Actions_Challenges_Lost,Liverpool,19.14
+Defensive Actions_Blocks_Blocks,West Ham,22.05
+Defensive Actions_Blocks_Sh,West Ham,8.09
+Defensive Actions_Blocks_Pass,Liverpool,16.45
+Defensive Actions_Blocks_Int,Fulham,17.52
+Defensive Actions_Blocks_Tkl+Int,Fulham,49.62
+Defensive Actions_Blocks_Clr,West Ham,41.14
+Defensive Actions_Blocks_Err,Tottenham,1.0
+Possession_Touches_Touches,Manchester City,1492.1
+Possession_Touches_Def Pen,Fulham,132.71
+Possession_Touches_Def 3rd,Fulham,408.1
+Possession_Touches_Mid 3rd,Manchester City,681.86
+Possession_Touches_Att 3rd,Manchester City,486.95
+Possession_Touches_Att Pen,Arsenal,70.29
+Possession_Touches_Live,Manchester City,1491.62
+Possession_Take-Ons_Att,Manchester City,34.71
+Possession_Take-Ons_Succ,Manchester City,17.86
+Possession_Take-Ons_Succ%,Wolves,57.85
+Possession_Take-Ons_Tkld,Bournemouth,15.62
+Possession_Take-Ons_Tkld%,Liverpool,46.53
+Possession_Carries_Carries,Manchester City,959.81
+Possession_Carries_TotDist,Manchester City,5005.14
+Possession_Carries_ProDist,Manchester City,2759.71
+Possession_Carries_ProgC,Manchester City,53.48
+"Possession_Carries_""1/3",Manchester City,41.29
+Possession_Carries_CPA,Manchester City,19.71
+Possession_Carries_Mis,Liverpool,25.73
+Possession_Carries_Dis,Liverpool,18.23
+Possession_Receiving_ReC,Manchester City,1156.14
+Possession_Receiving_PrgR,Arsenal,98.86
+Playing Time_Starts_Starts,Fulham,19.9
+Playing Time_Starts_Mn/Start,Crystal Palace,84.33
+Playing Time_Starts_Compl,Manchester City,14.33
+Playing Time_Starts_Subs,Fulham,7.33
+Playing Time_Starts_Mn/Sub,Sheffield Utd,26.33
+Playing Time_Starts_unSub,Manchester City,8.0
+Playing Time_Team Success_PPM,Manchester City,2.42
+Playing Time_Team Success_onG,Manchester City,50.14
+Playing Time_Team Success_onGA,Sheffield Utd,37.77
+Playing Time_Team Success(xG)_onxG,Liverpool,43.62
+Playing Time_Team Success(xG)_onxGA,West Ham,35.3
+Miscellaneous Stats_Performance_Fls,Liverpool,20.68
+Miscellaneous Stats_Performance_Fld,Tottenham,21.04
+Miscellaneous Stats_Performance_Off,Liverpool,4.55
+Miscellaneous Stats_Performance_Crs,Liverpool,37.14
+Miscellaneous Stats_Performance_OG,Sheffield Utd,0.23
+Miscellaneous Stats_Performance_Recov,Liverpool,92.0
+Miscellaneous Stats_Aerial Duels_Won,Everton,29.39
+Miscellaneous Stats_Aerial Duels_Lost,Bournemouth,25.65
+Miscellaneous Stats_Aerial Duels_Won%,Nott'ham Forest,55.8
